@@ -1,0 +1,14 @@
+{
+  "info": {
+    "name": "comp1",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_component_comp1_s"
+}
